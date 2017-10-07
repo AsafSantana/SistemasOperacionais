@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Controller/HostessConect.cpp
+HostessConect.h
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Controller/HostessConect.h
+
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Controller/HostessConect.h
+iostream
+-
+string
+-
+queue
+-
+map
+-
+sstream
+-
+fstream
+-
+../Model/Mesa.h
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/Mesa.h
+../Model/ChefeCozinha.h
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/ChefeCozinha.h
+
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Main/Main.cpp
+iostream
+-
+string
+-
+queue
+-
+sstream
+-
+stdlib.h
+-
+../Controller/HostessConect.h
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Controller/HostessConect.h
+
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/ChefeCozinha.cpp
+ChefeCozinha.h
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/ChefeCozinha.h
+
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/ChefeCozinha.h
+iostream
+-
+unistd.h
+-
+string
+-
+cstring
+-
+
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/Mesa.cpp
+Mesa.h
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/Mesa.h
+
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/Mesa.h
+iostream
+-
+string
+-
+queue
+-
+ChefeCozinha.h
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/Model/ChefeCozinha.h
+

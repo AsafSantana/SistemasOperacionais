@@ -1,0 +1,9 @@
+Mesa 4: 
+     - hamburguer com batatas fritas 
+     - cachorro quente 
+Mesa 5: 
+     - picanha na chapa 
+     - porcao de batatas fritas 
+Mesa 4: 
+     - bife a parmegiana 
+     - salada de alface 

@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Asaf Santana/Desktop/SistemasOperacionais-RestauranteFuturistico-master/cmake-build-debug/CMakeFiles/CozinhaSistemasOperacionais.dir
